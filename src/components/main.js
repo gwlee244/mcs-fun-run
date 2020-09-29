@@ -16,7 +16,7 @@ class Main extends Component {
             </div>
             <h3>How do I sign up?</h3>
             <div> 
-             <p>Just go to the MCS Family Fitness for Financial Aid Sign Up Genius here <a href="https://www.signupgenius.com/go/4090a48aaa92faafc1-testfundraiser">SIGN UP</a>
+             <p>Just go to the MCS Family Fitness for Financial Aid Sign Up Genius here <a href="https://www.signupgenius.com/go/30E0D44A8AA2BA5FA7-mcsfamily">SIGN UP</a>
              </p>
             </div>
             <h3>How do I donate?</h3>
