@@ -8,7 +8,7 @@ class Header extends Component {
       <header>
       <Nav/>
         <div className="head">
-            <h1>Virtual Fun Run< br/></h1>
+            <h1>Family Fitness for Financial Aid< br/></h1>
             <div>
               <p>Financial Aid is critical in keeping MCS diverse, accessible, and equitable for all students regardless of their circumstances. Because of the pandemic the need for financial aid has increased significantly.  </p>
               
