@@ -101,7 +101,8 @@ header div.head {
 
 header div.head  {
   /* color: #1b3b25; */
-  color: white;
+  color: yellow;
+  text-shadow: -2px -2px 0 black ;
 }
 
 
@@ -117,11 +118,12 @@ header div.head h1 {
 header div.head p {
   padding-left: 30px;
   font-weight: bold;
+  font-size: 1.3rem;
 }
 
 
 .contact {
- background: goldenrod;
+ background: yellow;
  display: block;
  color: #1b3b25;
  font-weight: bold;
@@ -164,7 +166,7 @@ main section h3 {
   text-transform: uppercase;
   line-height: 3.2rem; 
   padding-right: 10px;
-  border-right: 3px solid #ddd;
+  /* border-right: 3px solid #ddd; */
 }
 
 
@@ -177,6 +179,7 @@ main section div {
 main section div p {
   padding-left: 10px;
   font-size: 1rem;
+  border-left: 3px solid #ddd;
 }
 
 .donate-link {
